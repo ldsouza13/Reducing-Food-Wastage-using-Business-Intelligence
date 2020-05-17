@@ -1,0 +1,2 @@
+# Reducing-Food-Wastage-using-Business-Intelligence
+Developed strategic and operational dashboards using Business Intelligence tools like Tableau to help analyse and predict the different trends across Whole Foods data over the last few months. These dashboards helped predict and analyse the prepared foods/food categories that didn’t perform well based on their consumption levels over the last few months, thus helping the company manage their production and reduce food wastage accordingly.
