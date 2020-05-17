@@ -1,2 +1,3 @@
 # Reducing-Food-Wastage-using-Business-Intelligence
-Developed strategic and operational dashboards using Business Intelligence tools like Tableau to help analyse and predict the different trends across Real Foods data over the last few months. These dashboards helped predict and analyse the prepared foods/food categories that didn’t perform well based on their consumption levels over the last few months, thus helping the company manage their production and reduce food wastage accordingly.
+-Developed strategic and operational dashboards using tools like Python and Tableau to help analyse and predict different trends across Whole Foods data.
+-These dashboards helped forecast future trends of food items in terms of wastage and sales. It also helped analyse the past trends in terms of performance of food items at different locations, thus helping the company manage their production levels and reduce food wastage accordingly.
